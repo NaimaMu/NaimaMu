@@ -1,10 +1,10 @@
-Hello there, I am a computer science student and a software engineer who is enthusiastic about open-source projects. As an avid user of self-hosted servers, I deeply value the advantages and merits of open-source software. Its ability to foster collaboration and innovation within the software community has greatly influenced my passion for working on open-source projects.
+Hello, and thanks for visiting! I'm a Cybersecurity student and actively learning through hands-on projects. Feel free to explore my work here!
 
 Thank you for taking the time to visit my GitHub profile.
-Here is my portfolio site: https://abdinasirmumin.netlify.app/ 
+
    <p align="left">
-    <a href="https://github.com/AbdinasirM?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AbdinasirM?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/NaimaMu?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NaimaMu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/NaimaMu?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NaimaMu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
@@ -38,5 +38,5 @@ Here is my portfolio site: https://abdinasirmumin.netlify.app/
 #
 
 ### 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbdinasirM&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NaimaMu&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
