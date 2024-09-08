@@ -16,7 +16,7 @@ Thank you for taking the time to visit my GitHub profile.
 <img align="left" alt="Java"  width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali/kali-plain.svg" alt="Kali Linux Icon"/>
 
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Icon">
+<img  align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Icon">
           
           
 <br />
