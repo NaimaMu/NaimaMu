@@ -16,7 +16,7 @@ Thank you for taking the time to visit my GitHub profile.
 <img align="left" alt="Ubuntu"  width="60px" style="padding-right:10px;" src="https://imageio.forbes.com/blogs-images/jasonevangelho/files/2018/07/ubuntu-logo.jpg?format=jpg&width=1440"/>
 
           
-<img  align="left" alt="Ubuntu" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Icon">
+<img  align="left" alt="Ubuntu" width="60px" style="padding-right:10px;" src="file:///C:/Users/naima/Downloads/linux.svg" alt="Ubuntu Icon">
           
 <img align="left" alt="Ubuntu" width="60px" style="padding-right:10px;" src="https://iconduck.com/icons/20529/nessus" alt="Nessus Icon">
 
