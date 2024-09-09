@@ -11,9 +11,9 @@ Thank you for taking the time to visit my GitHub profile.
 
 ---
 
-### 🧰 Languages and Tools
+###  Languages and Tools
 
-<img align="left" alt="Java"  width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kali/kali-plain.svg" alt="Kali Linux Icon"/>
+<img align="left" alt="Ubuntu"  width="60px" style="padding-right:10px;" src="https://imageio.forbes.com/blogs-images/jasonevangelho/files/2018/07/ubuntu-logo.jpg?format=jpg&width=1440"/>
 
           
 <img  align="left" alt="Ubuntu" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu Icon">
