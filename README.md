@@ -1,10 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/naima-mumin-a48750270/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <h3 align="left">Hello, and thanks for visiting! I'm a cybersecurity student and am actively learning through hands-on projects. Feel free to explore my work here!</h3>
 
