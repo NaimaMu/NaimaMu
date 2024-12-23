@@ -21,9 +21,7 @@
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ### 💻 **Operating Systems:**  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
 
 ### 🧰 **Tools:**  
 ![Nmap](https://img.shields.io/badge/Nmap-%23004080.svg?style=for-the-badge&logo=nmap&logoColor=white)  , ![Wireshark](https://img.shields.io/badge/Wireshark-%23167F92.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
