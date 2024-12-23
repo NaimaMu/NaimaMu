@@ -29,6 +29,6 @@
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=NaimaMu&theme=dracula&no-frame=true&row=1" alt="Naima's Trophies" />  
 </p>  
----
+
 
 [![](https://visitcount.itsvg.in/api?id=NaimaMu&icon=0&color=0)](https://visitcount.itsvg.in)  
