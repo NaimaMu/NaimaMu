@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="right">Hello, and thanks for visiting! I'm a cybersecurity student and am actively learning through hands-on projects. Feel free to explore my work here!</h3>
+<h3 align="left">Hello, and thanks for visiting! I'm a cybersecurity student and am actively learning through hands-on projects. Feel free to explore my work here!</h3>
 
 ###
 
