@@ -6,6 +6,7 @@
 - Pursuing **SOC Level 1** (TryHackMe) and preparing for **CompTIA Security+** certification.  
 ---
 ## 🛠️ Technical Skills  
+
 ### ☁️ **Cloud Platforms:**  
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
