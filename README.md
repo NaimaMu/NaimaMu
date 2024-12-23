@@ -4,10 +4,6 @@
 🌐 **Building the Future of Cyber Defense:**  
 - Creating a **Home SOC Lab** with ELK Stack, Wazuh, Suricata, and Shuffle.  
 - Pursuing **SOC Level 1** (TryHackMe) and preparing for **CompTIA Security+** certification.  
-
-🔍 **Current Focus:**  
-- Mastering **SIEM tools (Splunk, ELK)** and diving into **network monitoring**.  
-- Exploring **cloud security (Azure)** and refining **penetration testing** skills.
 ---
 ## 🛠️ Technical Skills  
 ### ☁️ **Cloud Platforms:**  
