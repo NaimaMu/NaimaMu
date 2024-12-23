@@ -1,5 +1,5 @@
 # 💫 About Me:  
-🚀 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Hands-On Learner**  
+🚀 **Aspiring SOC Analyst | Cybersecurity student | Hands-On Learner**  
 
 🌐 **Building the Future of Cyber Defense:**  
 - Creating a **Home SOC Lab** with ELK Stack, Wazuh, Suricata, and Shuffle.  
