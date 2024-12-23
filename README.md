@@ -5,10 +5,6 @@
 - Creating a **Home SOC Lab** with ELK Stack, Wazuh, Suricata, and Shuffle.  
 - Pursuing **SOC Level 1** (TryHackMe) and preparing for **CompTIA Security+** certification.  
 
-🤝 **Let’s Team Up!**  
-- I’m eager to collaborate on **SOC workflows, threat detection tools, and security automation**.  
-- Passionate about **CTFs, cybersecurity projects,** and **vulnerability assessments**.  
-
 🔍 **Current Focus:**  
 - Mastering **SIEM tools (Splunk, ELK)** and diving into **network monitoring**.  
 - Exploring **cloud security (Azure)** and refining **penetration testing** skills.
