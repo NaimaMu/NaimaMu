@@ -1,6 +1,6 @@
 # 💫 About Me:  
 🚀 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Hands-On Learner**  
----
+
 🌐 **Building the Future of Cyber Defense:**  
 - Creating a **Home SOC Lab** with ELK Stack, Wazuh, Suricata, and Shuffle.  
 - Pursuing **SOC Level 1** (TryHackMe) and preparing for **CompTIA Security+** certification.  
