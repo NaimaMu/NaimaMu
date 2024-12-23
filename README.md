@@ -11,12 +11,9 @@
 
 🔍 **Current Focus:**  
 - Mastering **SIEM tools (Splunk, ELK)** and diving into **network monitoring**.  
-- Exploring **cloud security (Azure)** and refining **penetration testing** skills.  
-
----
-
+- Exploring **cloud security (Azure)** and refining **penetration testing** skills.
+- 
 ## 🛠️ Technical Skills  
-
 ### ☁️ **Cloud Platforms:**  
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
