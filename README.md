@@ -26,8 +26,7 @@
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
 
 ### 🧰 **Tools:**  
-![Nmap](https://img.shields.io/badge/Nmap-%23004080.svg?style=for-the-badge&logo=nmap&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-%23167F92.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-%23004080.svg?style=for-the-badge&logo=nmap&logoColor=white)  , ![Wireshark](https://img.shields.io/badge/Wireshark-%23167F92.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Snort](https://img.shields.io/badge/Snort-%23EA1F33.svg?style=for-the-badge&logo=snort&logoColor=white)  
 ![Bettercap](https://img.shields.io/badge/Bettercap-%23000000.svg?style=for-the-badge)  
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)  
