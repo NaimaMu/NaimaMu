@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 🌟 About Me:  
 🚀 **Aspiring SOC Analyst | Cybersecurity student | Hands-On Learner**  
 
 🌐 **Building the Future of Cyber Defense:**  
