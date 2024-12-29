@@ -1,5 +1,5 @@
 # 🌟 About Me:  
-🚀 Aspiring SOC Analyst | Cybersecurity Student @ SCSU | Hands-On Learner
+🚀 SOC Analyst | Cybersecurity Student @ SCSU | Hands-On Learner
 
 🌐 SOC HomeLab in Progress
 - Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
