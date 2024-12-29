@@ -1,6 +1,6 @@
 # 🌟 About Me:  
 🚀 Aspiring SOC Analyst | Cybersecurity Student @ SCSU | Hands-On Learner
-🌐 Building Skills, One Log at a Time
+🌐 SOC HomeLab in Progress
 
 - Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
 - Creating a Home SOC Lab integrating ELK Stack, Wazuh, Suricata, and Shuffle to simulate real-world environments.
