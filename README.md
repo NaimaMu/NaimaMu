@@ -1,9 +1,10 @@
 # 🌟 About Me:  
-🚀 **SOC Analyst | Cybersecurity student @ SCSU | Hands-On Learner**  
+🚀 Aspiring SOC Analyst | Cybersecurity Student @ SCSU | Hands-On Learner
+🌐 Building Skills, One Log at a Time
 
-🌐 *SOC HomeLab in Progress**  
-- Creating a **Home SOC Lab** with ELK Stack, Wazuh, Suricata, and Shuffle.  
-- Pursuing **SOC Level 1** (TryHackMe) and preparing for **CompTIA Security+** certification.  
+- Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
+- Creating a Home SOC Lab integrating ELK Stack, Wazuh, Suricata, and Shuffle to simulate real-world environments.
+- Currently pursuing SOC Level 1 (TryHackMe) and preparing for CompTIA Security+..
 ---
 ## 🛠️ Technical Skills  
 
