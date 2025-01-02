@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats:  
-| <a href="https://github.com/NaimaMu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NaimaMu&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Naima's GitHub stats" /></a> | <a href="https://github.com/NaimaMu/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimaMu&theme=radical&hide_border=false" alt="Naima's GitHub streak" /></a> |  
+<a href="https://github.com/NaimaMu/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimaMu&theme=radical&hide_border=false" alt="Naima's GitHub streak" /></a> |  
 | ------------- | ------------- |  
 ---
 
