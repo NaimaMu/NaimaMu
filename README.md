@@ -23,7 +23,6 @@
 
 ## 📊 GitHub Stats:  
 <a href="https://github.com/NaimaMu/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimaMu&theme=radical&hide_border=false" alt="Naima's GitHub streak" /></a> |  
-| ------------- | ------------- |  
 ---
 
 ## 🏆 GitHub Trophies:  
