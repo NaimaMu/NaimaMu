@@ -25,10 +25,6 @@
 <a href="https://github.com/NaimaMu/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NaimaMu&theme=radical&hide_border=false" alt="Naima's GitHub streak" /></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=NaimaMu&icon=0&color=0)](https://visitcount.itsvg.in)  
-## 🏆 GitHub Trophies:  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=NaimaMu&theme=dracula&no-frame=true&row=1" alt="Naima's Trophies" />  
-</p>  
-
+ 
 
 
