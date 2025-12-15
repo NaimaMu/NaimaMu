@@ -3,7 +3,7 @@
 
 🌐 SOC HomeLab Complete
 - Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
-- Creating a Home SOC Lab by integrating ELK Stack, Wazuh, Suricata, Shuffle, Kali Linux, Ubuntu, and Windows to simulate real-world environments.
+- created a Home SOC Lab by integrating ELK Stack, Wazuh, Suricata, Shuffle, Kali Linux, Ubuntu, and Windows to simulate real-world environments.
 - Currently pursuing SOC Level 1 (TryHackMe) and preparing for CompTIA Security+.
 ---
 ## 🛠️ Technical Skills  
