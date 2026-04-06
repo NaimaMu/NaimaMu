@@ -2,7 +2,7 @@
 🚀 SOC Analyst | Cybersecurity Student @ SCSU | CompTIA Security+| Hands-On Learner
 
 ---
-PROJECTS: 
+# PROJECTS: 
 
 ### 🌐 SOC HomeLab Complete
 - Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
