@@ -9,7 +9,6 @@
 - created a Home SOC Lab by integrating ELK Stack, Wazuh, Suricata, Shuffle, Kali Linux, Ubuntu, and Windows to simulate real-world environments.
 ---
  
-
 ### SOAR Project
  - Built a SOAR workflow in my home lab to detect failed login attempts and automatically send notifications.   
  - Enabled Windows Security Logging for successful and failed login attempts.  
