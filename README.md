@@ -10,7 +10,7 @@
 ### SOAR Project
  - Built a SOAR workflow in my home lab to detect failed login attempts and automatically send notifications.   
  - Enabled Windows Security Logging for successful and failed login attempts.  
- - Created a detection rule in ELK Stack to find failed logins and suspicious activity.  
+ - Created a detection rule in ELK Stack to find failed logins.  
  - Integrated ELK Stack with Shuffle using a Python script and Shuffle webhook.   
  - Created a Discord server to receive notifications.  
  - Used Task Scheduler on Windows 11 VM to run the Python script automatically.  
