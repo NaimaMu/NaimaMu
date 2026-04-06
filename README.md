@@ -2,14 +2,14 @@
 🚀 SOC Analyst | Cybersecurity Student @ SCSU | CompTIA Security+| Hands-On Learner
 
 ---
-# RECENT PROJECTS:   
+# RECENT PROJECTS:    
  
-### SOC HomeLab Complete 
+#### SOC HomeLab Complete 
 - Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
 - created a Home SOC Lab by integrating ELK Stack, Wazuh, Suricata, Shuffle, Kali Linux, Ubuntu, and Windows to simulate real-world environments.
 ---
  
-### SOAR Project
+#### SOAR Project
  - Built a SOAR workflow in my home lab to detect failed login attempts and automatically send notifications.   
  - Enabled Windows Security Logging for successful and failed login attempts.  
  - Created a detection rule in ELK Stack to find failed logins.  
