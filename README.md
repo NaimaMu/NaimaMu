@@ -1,6 +1,7 @@
 # 🌟 About Me:  
 🚀 SOC Analyst | Cybersecurity Student @ SCSU | CompTIA Security+| Hands-On Learner
 
+---
 ### 🌐 SOC HomeLab Complete
 - Passionate about Security Operations and continuously developing my skills in threat detection, incident response, and network defense.
 - created a Home SOC Lab by integrating ELK Stack, Wazuh, Suricata, Shuffle, Kali Linux, Ubuntu, and Windows to simulate real-world environments.
