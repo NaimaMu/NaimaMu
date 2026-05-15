@@ -1,5 +1,5 @@
 # 🌟 About Me:  
-🚀 SOC Analyst | Cybersecurity Student @ SCSU | CompTIA Security+| Hands-On Learner
+🚀 SOC Analyst |B.S in Cybersecurity from Saint cloud State University | CompTIA Security+ | Hands-On Learner
 
 ---
 # RECENT PROJECTS:    
